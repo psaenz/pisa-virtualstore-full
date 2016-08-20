@@ -2,5 +2,7 @@
 	path = pisa-virtualstore-dal
 	url = https://github.com/psaenz/pisa-virtualstore-dal
 [submodule "pisa-utils"]
+
 	path = pisa-utils
+
 	url = https://github.com/psaenz/pisa-utils
