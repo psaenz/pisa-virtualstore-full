@@ -1,0 +1,3 @@
+[submodule "pisa-virtualstore-dal"]
+	path = pisa-virtualstore-dal
+	url = https://github.com/psaenz/pisa-virtualstore-dal
